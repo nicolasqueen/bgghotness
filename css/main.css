@@ -1,0 +1,17 @@
+.indItem {
+ display: inline-block;
+ vertical-align: top;
+ padding: 1em;
+ margin: 2em;
+}
+
+ul {
+    margin: 0 auto;
+    text-align: center;
+    display:inline-grid;
+    grid-template-rows: auto ;
+}
+
+#bggTitle {
+    text-align: center;
+}
